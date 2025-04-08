@@ -130,6 +130,9 @@ const ahmad = {
 - **Web Development**: Crafted dynamic websites using React, Next.js, and Django
 
 
+
+
+
 <div align="center">
   <i>⚡ "Building tomorrow's solutions with today's technology" ⚡</i>
 </div>

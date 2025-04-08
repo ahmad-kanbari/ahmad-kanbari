@@ -45,22 +45,51 @@ const ahmad = {
 </p>
 
 ### AI & Software Development
-![AI](https://img.shields.io/badge/-Artificial_Intelligence-333333?style=flat&logo=ai)
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-333333?style=flat&logo=ai)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-333333?style=flat&logo=machinelearning)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-333333?style=flat&logo=opencv)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash)
 
 ### Web & Mobile Development
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
 
 ### Engineering & IoT
 ![Mechanical Engineering](https://img.shields.io/badge/-Mechanical_Engineering-333333?style=flat&logo=autodesk)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-333333?style=flat&logo=autodesk)
 ![IoT](https://img.shields.io/badge/-IoT-333333?style=flat&logo=internetofthings)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-333333?style=flat&logo=raspberrypi)
+![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+
+### Miscellaneous
+![Discord Bots](https://img.shields.io/badge/-Discord_Bots-333333?style=flat&logo=discord)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visualstudiocode)
+
 
 ### Business & Marketing
 ![Digital Marketing](https://img.shields.io/badge/-Digital_Marketing-333333?style=flat&logo=googleads)

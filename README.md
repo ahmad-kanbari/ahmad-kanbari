@@ -121,12 +121,6 @@ const ahmad = {
   - Diagnosed production line problems
   - Implemented safety procedures and maintenance protocols
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadkanbari&show_icons=true&theme=radical" alt="Ahmad's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadkanbari&theme=radical" alt="Ahmad's GitHub streak" />
-</div>
 
 ## 🏆 Projects & Achievements
 

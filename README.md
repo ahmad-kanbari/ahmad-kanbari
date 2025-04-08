@@ -46,6 +46,7 @@ const ahmad = {
 
 ### AI & Software Development
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial_Intelligence-333333?style=flat&logo=ai)
+![AI Agents with Crew AI](https://img.shields.io/badge/-crewAI-333333?style=flat&logo=ai)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-333333?style=flat&logo=machinelearning)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)

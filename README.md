@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/AI-Software_Developer-blue" alt="AI Software Developer"/>
   <img src="https://img.shields.io/badge/Mechanical-Engineer-orange" alt="Mechanical Engineer"/>
   <img src="https://img.shields.io/badge/Full_Stack-Developer-green" alt="Full Stack Developer"/>
-  <img src="https://img.shields.io/badge/42-Abu_Dhabi-black" alt="42 Abu Dhabi"/>
 </div>
 
 ## 👨‍💻 About Me

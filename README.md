@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a multidisciplinary engineer passionate about **building innovative solutions to solve real-world problems**. My expertise spans cutting-edge technologies including artificial intelligence, IoT, blockchain, and full-stack development. With a background in mechanical engineering and software development, I bridge the gap between hardware and software to create seamless technological solutions.
+I'm a multidisciplinary engineer passionate about **building innovative solutions to solve real-world problems**. My expertise spans cutting-edge technologies including artificial intelligence, IoT, and full-stack development. With a background in mechanical engineering and software development, I bridge the gap between hardware and software to create seamless technological solutions.
 
 ```javascript
 const ahmad = {

@@ -37,6 +37,7 @@ const ahmad = {
     <img src="https://skillicons.dev/icons?i=git,github,docker,c,vim,arduino, bash, bootstrap, c, cpp, CSS, dart, flutter, discord, bots, django, fastapi, flask,  firebase, HTML, ai, js, kali, linux, MySQL, MongoDB, nextjs, nginx, nodejs, notion, opencv, postgres, py, react, raspberrypi, sqlite, supabase, solidity, tailwind, tensorflow, ts, vscode " />
   </a>
 </p>
+
 ### AI & Software Development
 ![AI](https://img.shields.io/badge/-Artificial_Intelligence-333333?style=flat&logo=ai)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-333333?style=flat&logo=machinelearning)

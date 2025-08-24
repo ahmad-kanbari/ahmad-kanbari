@@ -125,7 +125,7 @@ const ahmad = {
   - Developed and implemented e-commerce strategies
   - Optimized website performance and user experience
 
-- **Mechanical Engineer** @ Al Sultan Industrial Cement
+- **Mechanical Engineer**
   - Supervised manufacturing processes
   - Diagnosed production line problems
   - Implemented safety procedures and maintenance protocols

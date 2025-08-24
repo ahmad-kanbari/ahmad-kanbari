@@ -1,4 +1,4 @@
-# Hi, I'm Ahmad Abdulkader Kanbari
+# Hi, I'm Ahmad Kanbari
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI-Software_Developer-blue" alt="AI Software Developer"/>

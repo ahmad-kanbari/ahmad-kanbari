@@ -173,7 +173,7 @@ const ahmad = {
 <br clear="both">
 
 
-<img src="https://raw.githubusercontent.com/ahmad-kanbari/ahmad-kanbari/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ahmad-kanbari/output/snake.svg" alt="Snake animation" />
 
 ###
 

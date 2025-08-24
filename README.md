@@ -145,11 +145,11 @@ const ahmad = {
 
 <div align="center">
 
-<a href="https://github.com/ahmad-kanbari/">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-kanbari&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad-kanbari&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="ahmad-kanbari"/>
-
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-kanbari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ahmad-kanbari&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad-kanbari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <div align="center">
   <i>⚡ "Building tomorrow's solutions with today's technology" ⚡</i>

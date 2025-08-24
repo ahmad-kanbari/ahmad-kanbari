@@ -1,4 +1,4 @@
-# Hi, I'm Ahmad Kanbari
+<h1 align="center"><b>Hi , I'm Ahmad Kanbari</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI-Software_Developer-blue" alt="AI Software Developer"/>

@@ -26,9 +26,9 @@ const ahmad = {
   languages: ["Arabic", "English", "Turkish"],
   technologies: {
     AI: ["Machine Learning", "Computer Vision", "AI Agents"],
-    frontend: ["React", "Next.js", "Flutter"],
-    backend: ["Django", "Node.js"],
-    mobile: ["Flutter"],
+    frontend: ["React", "Next.js", "HTML", "CSS", "Tailwind CSS"],
+    backend: ["Django", "Express.js"],
+    mobile: ["React Native", "Flutter"],
     other: ["IoT", "Blockchain", "Digital Marketing"]
   },
   education: {

@@ -44,7 +44,7 @@ const ahmad = {
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,dart,solidity,bash,vim,html,css" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,nodejs,flutter,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,bootstrap,tailwind" />
     <img src="https://skillicons.dev/icons?i=django,flask,fastapi,firebase,supabase,nginx" />
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
     <img src="https://skillicons.dev/icons?i=git,github,docker,linux,kali" />

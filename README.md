@@ -107,39 +107,6 @@ const ahmad = {
 ![SEO](https://img.shields.io/badge/-SEO-333333?style=flat&logo=googlesearch)
 
 
-
-
-## 🌟 Professional Experience
-
-- **AI Developer** @ MVP Application & Game Design L.L.C.
-  - Developed AI systems for business challenges
-  - Designed and implemented data transformation architectures
-  - Created reusable, testable, and efficient code
-
-- **Software Development Member** @ 42 Abu Dhabi
-  - Working on cutting-edge software projects
-  - Collaborating in a peer-to-peer learning environment
-
-- **Digital Marketing & E-commerce Executive** @ Freelance
-  - Managed online traffic acquisition, sales, and conversion
-  - Developed and implemented e-commerce strategies
-  - Optimized website performance and user experience
-
-- **Mechanical Engineer**
-  - Supervised manufacturing processes
-  - Diagnosed production line problems
-  - Implemented safety procedures and maintenance protocols
-
-
-## 🏆 Projects & Achievements
-
-- **AI Automation Solutions**: Developed intelligent systems for process optimization
-- **IoT Integration**: Created connected device networks for smart applications
-- **Cross-platform Mobile Apps**: Built with Flutter for seamless user experiences
-- **Web Development**: Crafted dynamic websites using React, Next.js, and Django
-
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
